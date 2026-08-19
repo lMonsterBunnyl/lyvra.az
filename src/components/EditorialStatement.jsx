@@ -30,7 +30,7 @@ export default function EditorialStatement() {
 
       <div className="relative mx-auto max-w-4xl text-center">
         <div className={`reveal ${inView ? 'visible' : ''}`}>
-          <SectionLabel light>BioFera / Beauty Science</SectionLabel>
+          <SectionLabel light>LYVRA / Beauty Science</SectionLabel>
         </div>
 
         <h2
@@ -48,7 +48,7 @@ export default function EditorialStatement() {
           }`}
           style={{ transitionDelay: '400ms' }}
         >
-          BioFera approaches botanical hair care with the precision, restraint and curiosity of modern beauty science.
+          LYVRA approaches botanical hair care with the precision, restraint and curiosity of modern beauty science.
         </p>
       </div>
     </section>
