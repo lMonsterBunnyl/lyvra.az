@@ -12,7 +12,7 @@ const products = [
   {
     name: 'Botanical Hair Serum',
     category: 'Collection',
-    description: 'A lightweight serum inspired by the BioFera botanical collection.',
+    description: 'A lightweight serum inspired by the LYVRA botanical collection.',
     price: '$52',
     featured: false,
   },
@@ -41,7 +41,7 @@ export default function Collection() {
           }`}
           style={{ transitionDelay: '150ms' }}
         >
-          The BioFera collection.
+          The LYVRA collection.
         </h2>
 
         <div className="mt-16 grid grid-cols-1 gap-6 lg:grid-cols-12 lg:gap-8">
@@ -70,8 +70,8 @@ function ProductCard({ product, inView, delay, className = '', large = false }) 
     >
       <div className={`relative overflow-hidden bg-gradient-to-br from-bio-sage/20 to-bio-ivory ${large ? 'aspect-[4/3]' : 'aspect-[16/10]'}`}>
         <img
-          src="/images/biofera-collection.png"
-          alt={`BioFera ${product.name} — premium botanical hair care`}
+          src="/images/LYVRA-collection.png"
+          alt={`LYVRA ${product.name} — premium botanical hair care`}
           className="h-full w-full object-cover object-center transition-transform duration-700 group-hover:scale-[1.03]"
           style={{ transitionTimingFunction: 'cubic-bezier(0.22, 1, 0.36, 1)' }}
           loading="lazy"
