@@ -36,8 +36,8 @@ export default function FinalCTA() {
           style={{ transitionTimingFunction: 'cubic-bezier(0.22, 1, 0.36, 1)' }}
         >
           <img
-            src="/images/biofera-collection.png"
-            alt="BioFera Nourishing Hair Oil collection — begin your hair ritual"
+            src="/images/LYVRA-collection.png"
+            alt="LYVRA Nourishing Hair Oil collection — begin your hair ritual"
             className="w-full object-contain"
             loading="lazy"
           />
@@ -66,7 +66,7 @@ export default function FinalCTA() {
           className={`reveal mt-10 flex flex-wrap items-center justify-center gap-6 ${inView ? 'visible' : ''}`}
           style={{ transitionDelay: '500ms' }}
         >
-          <PrimaryButton href="#collection">Explore BioFera</PrimaryButton>
+          <PrimaryButton href="#collection">Explore LYVRA</PrimaryButton>
           <SecondaryButton href="#formula">Discover the Formula</SecondaryButton>
         </div>
       </div>
