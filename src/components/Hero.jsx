@@ -65,7 +65,7 @@ export default function Hero() {
             className={`reveal ${loaded ? 'visible' : ''}`}
             style={delay(300)}
           >
-            <SectionLabel>BioFera / Hair Science</SectionLabel>
+            <SectionLabel>LYVRA / Hair Science</SectionLabel>
           </div>
 
           <h1
@@ -116,8 +116,8 @@ export default function Hero() {
               style={delay(450)}
             >
               <img
-                src="/images/biofera-collection.png"
-                alt="BioFera hair care collection — nourishing hair oil, botanical serum, and daily elixir bottles with natural wood caps on a warm ivory surface"
+                src="/images/LYVRA-collection.png"
+                alt="LYVRA hair care collection — nourishing hair oil, botanical serum, and daily elixir bottles with natural wood caps on a warm ivory surface"
                 className="relative z-10 w-full object-contain transition-transform duration-700"
                 style={{ transitionTimingFunction: 'cubic-bezier(0.22, 1, 0.36, 1)' }}
                 fetchPriority="high"
