@@ -45,7 +45,7 @@ export default function Philosophy() {
               }`}
               style={{ transitionDelay: '300ms' }}
             >
-              BioFera brings together botanical oils, thoughtful formulations and modern hair science to create nourishment without unnecessary complexity.
+              LYVRA brings together botanical oils, thoughtful formulations and modern hair science to create nourishment without unnecessary complexity.
             </p>
 
             <div className="mt-16 grid grid-cols-1 gap-10 md:grid-cols-3 md:gap-8">
