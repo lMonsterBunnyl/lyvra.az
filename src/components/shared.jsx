@@ -2,7 +2,7 @@ import { Leaf } from 'lucide-react'
 
 export function Logo({ className = '', light = false }) {
   return (
-    <a href="#" className={`group inline-flex flex-col items-center gap-0.5 ${className}`} aria-label="BioFera home">
+    <a href="#" className={`group inline-flex flex-col items-center gap-0.5 ${className}`} aria-label="LYVRA home">
       <Leaf
         className={`h-3 w-3 transition-colors duration-300 ${
           light ? 'text-bio-ivory/70 group-hover:text-bio-sage' : 'text-bio-olive group-hover:text-bio-botanical'
@@ -14,7 +14,7 @@ export function Logo({ className = '', light = false }) {
           light ? 'text-bio-ivory group-hover:text-bio-sage' : 'text-bio-text group-hover:text-bio-olive'
         }`}
       >
-        BioFera
+        LYVRA
       </span>
     </a>
   )
