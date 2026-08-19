@@ -15,7 +15,7 @@ export default function BrandLab() {
         >
           <div className="absolute inset-0 bg-gradient-to-br from-bio-sage/30 via-bio-botanical/10 to-bio-wood/20" />
           <img
-            src="/images/LYVRA-collection.png"
+            src="/images/biofera-collection.png"
             alt="Close-up of LYVRA product textures — botanical oils and natural wood cap details"
             className="h-full w-full object-cover object-center"
             loading="lazy"
