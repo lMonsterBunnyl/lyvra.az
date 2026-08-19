@@ -63,7 +63,7 @@ export default function Footer() {
 
         <div className="mt-16 border-t border-bio-ivory/10 pt-8">
           <p className="font-sans text-[10px] tracking-[0.22em] text-bio-ivory/40 uppercase">
-            © 2026 BioFera
+            © 2026 LYVRA
           </p>
         </div>
       </div>
