@@ -36,7 +36,7 @@ export default function FinalCTA() {
           style={{ transitionTimingFunction: 'cubic-bezier(0.22, 1, 0.36, 1)' }}
         >
           <img
-            src="/images/LYVRA-collection.png"
+            src="/images/biofera-collection.png"
             alt="LYVRA Nourishing Hair Oil collection — begin your hair ritual"
             className="w-full object-contain"
             loading="lazy"
