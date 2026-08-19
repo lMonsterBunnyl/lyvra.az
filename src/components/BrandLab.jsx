@@ -15,8 +15,8 @@ export default function BrandLab() {
         >
           <div className="absolute inset-0 bg-gradient-to-br from-bio-sage/30 via-bio-botanical/10 to-bio-wood/20" />
           <img
-            src="/images/biofera-collection.png"
-            alt="Close-up of BioFera product textures — botanical oils and natural wood cap details"
+            src="/images/LYVRA-collection.png"
+            alt="Close-up of LYVRA product textures — botanical oils and natural wood cap details"
             className="h-full w-full object-cover object-center"
             loading="lazy"
           />
@@ -26,7 +26,7 @@ export default function BrandLab() {
         {/* Copy */}
         <div>
           <div className={`reveal ${inView ? 'visible' : ''}`} style={{ transitionDelay: '150ms' }}>
-            <SectionLabel>The BioFera Approach</SectionLabel>
+            <SectionLabel>The LYVRA Approach</SectionLabel>
           </div>
 
           <h2
@@ -56,7 +56,7 @@ export default function BrandLab() {
             className={`reveal mt-10 text-sm leading-relaxed text-bio-olive/80 md:text-base ${inView ? 'visible' : ''}`}
             style={{ transitionDelay: '800ms' }}
           >
-            Every BioFera product begins with a question: what does hair actually need? We formulate with botanical intelligence, refine through modern science, and ritualize the experience of daily nourishment.
+            Every LYVRA product begins with a question: what does hair actually need? We formulate with botanical intelligence, refine through modern science, and ritualize the experience of daily nourishment.
           </p>
         </div>
       </div>
