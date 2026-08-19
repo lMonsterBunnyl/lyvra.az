@@ -70,7 +70,7 @@ function ProductCard({ product, inView, delay, className = '', large = false }) 
     >
       <div className={`relative overflow-hidden bg-gradient-to-br from-bio-sage/20 to-bio-ivory ${large ? 'aspect-[4/3]' : 'aspect-[16/10]'}`}>
         <img
-          src="/images/biofera-collection.png"
+          src="/images/LYVRA-collection.png"
           alt={`LYVRA ${product.name} — premium botanical hair care`}
           className="h-full w-full object-cover object-center transition-transform duration-700 group-hover:scale-[1.03]"
           style={{ transitionTimingFunction: 'cubic-bezier(0.22, 1, 0.36, 1)' }}
