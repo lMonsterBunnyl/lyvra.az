@@ -98,7 +98,7 @@ export default function HeroProduct() {
               }}
             >
               <img
-                src="/images/biofera-collection.png"
+                src="/images/LYVRA-collection.png"
                 alt="LYVRA Nourishing Hair Oil — translucent green and ivory bottles with natural wood caps"
                 className="mx-auto w-full max-w-xs object-contain md:max-w-sm"
                 loading="lazy"
