@@ -46,7 +46,7 @@ export default function HeroProduct() {
               Nourishment, made visible.
             </h2>
             <p className="mx-auto mt-6 max-w-xl text-sm leading-relaxed text-bio-olive/90 md:text-base">
-              BioFera Nourishing Hair Oil is designed to bring natural oils into a refined daily ritual for softer, smoother, shinier-looking hair.
+              LYVRA Nourishing Hair Oil is designed to bring natural oils into a refined daily ritual for softer, smoother, shinier-looking hair.
             </p>
           </div>
 
@@ -98,8 +98,8 @@ export default function HeroProduct() {
               }}
             >
               <img
-                src="/images/biofera-collection.png"
-                alt="BioFera Nourishing Hair Oil — translucent green and ivory bottles with natural wood caps"
+                src="/images/LYVRA-collection.png"
+                alt="LYVRA Nourishing Hair Oil — translucent green and ivory bottles with natural wood caps"
                 className="mx-auto w-full max-w-xs object-contain md:max-w-sm"
                 loading="lazy"
               />
